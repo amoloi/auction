@@ -1,0 +1,8 @@
+<?php
+           $this->form->prepare();
+           
+           echo $this->form()->openTag($this->form);
+?>
+<div><?php echo $this->formRow($this->form->get('auctionCode'));  ?></div>
+
+<?php echo $this->form()->closeTag($form); ?>
