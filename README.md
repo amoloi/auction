@@ -12,12 +12,15 @@ Zend Framework was provided by [Zend Technologies.](https://framework.zend.com/ 
 
 The future
 -----------
-Efforts are currently in place to rebuild the solution into the latest php 8.0 roughly in two months time, and four other different flavours , 
+Efforts are currently in place to rebuild the solution into the latest php 8.0 roughly in two months time, and in four other different flavours ,with REST provisioning spiced up with Angular, Vue or React frontend and served in Microservies.
+
+The flavours:
+
 * Java - Spring Framework, 
 * Python - Django and 
 * C# - .Net Core
 * PHP - Laravel
-with a REST backend spiced up with Angular, Vue or React frontend and served in Microservies .
+
 The final products depends on time availability as commitment and desire are already there.
 
 
