@@ -17,9 +17,9 @@ Efforts are currently in place to rebuild the solution into the latest php 8.0 r
 The flavours:
 
 * Java - Spring Framework, 
-* Python - Django and 
-* C# - .Net Core
-* PHP - Laravel
+* Python - Django, 
+* C# - .Net Core and
+* PHP - Laravel.
 
 The final products depends on time availability as commitment and desire are already there.
 
